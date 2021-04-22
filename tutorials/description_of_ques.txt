@@ -1,0 +1,2 @@
+This tutorial file contains the solutions of Q.1(i),Q.3 , Q.4 .
+The urls in tutorials/urls.py are ordered like this format mentioned above .
